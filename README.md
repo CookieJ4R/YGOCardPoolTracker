@@ -8,15 +8,25 @@ Additionally, since every card is only allowed up to three times in a deck, the 
 
 ## Queries
 passcode=(eight-digit Number)
+
 name=(name)
+
 desc=(effect text/lore text)
+
 atk (= oder < oder > oder >= oder <= oder !=) number
+
 def (= oder < oder > oder >= oder <= oder !=) number
+
 level (= oder < oder > oder >= oder <= oder !=) number
+
 cardtype = (monster, spell, flip monster, etc..)
+
 type = (fiend, reptile, etc...)
+
 attribute = (earth, wind, etc..)
+
 archetype = (gravekeeper, amazonl, etc..)
+
 
 ## Screenshots
 ![main](main.png)
