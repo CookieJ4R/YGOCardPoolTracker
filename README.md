@@ -8,17 +8,17 @@ Additionally, since every card is only allowed up to three times in a deck, the 
 
 ## Queries
 
-passcode=(eight-digit Number)
+passcode=(eight-digit number)
 
 name=(name)
 
 desc=(effect text/lore text)
 
-atk (= oder < oder > oder >= oder <= oder !=) number
+atk (= oder < oder > oder >= oder <= oder !=) (number)
 
-def (= oder < oder > oder >= oder <= oder !=) number
+def (= oder < oder > oder >= oder <= oder !=) (number)
 
-level (= oder < oder > oder >= oder <= oder !=) number
+level (= oder < oder > oder >= oder <= oder !=) (number)
 
 cardtype = (monster, spell, flip monster, etc..)
 
