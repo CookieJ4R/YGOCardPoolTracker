@@ -7,6 +7,7 @@ The intended use for this tracker is a format in which the card pool grows after
 Additionally, since every card is only allowed up to three times in a deck, the program will automatically discard any additional copies of a card during the import process.
 
 ## Queries
+
 passcode=(eight-digit Number)
 
 name=(name)
