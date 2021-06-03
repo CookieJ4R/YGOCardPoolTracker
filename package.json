@@ -1,0 +1,21 @@
+{
+  "name": "ygocollection",
+  "version": "1.0.0",
+  "description": "A small App to manage a small yugioh collection.",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^11.2.2",
+    "material-design-icons": "^3.0.1",
+    "nedb": "^1.8.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "electron-packager": "^15.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Kevin Binder",
+  "license": "ISC"
+}
