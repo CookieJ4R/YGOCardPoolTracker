@@ -1,5 +1,5 @@
 # YGOCardPoolTracker
-A card pool tracker for the yugioh trading card game written in electron.
+A card pool tracker for the yugioh trading card game written with the electron framework.
 
 This program can read and import .ydk files. In these files a card gets represented by a single id which the program will use to look up information about the card via the [ygoprodeck API](https://db.ygoprodeck.com/api-guide/).
 
